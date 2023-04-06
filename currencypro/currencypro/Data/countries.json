@@ -1,0 +1,94 @@
+[
+	{
+		"id" : "USD",
+	  	"name" : "United States",
+	  	"flag" : "us",
+	  	"results" : {
+	  		"AUD": 1.78,
+	  		"CAD": 1.37,
+	  		"CNY": 7.2,
+	    	"EUR": 1.01,
+	    	"GBP": 0.88
+	  		},
+	 	"updated": "2021-11-11 11:11:11"
+	},
+	{
+		"id" : "GBP",
+	  	"name" : "United Kingdom",
+	  	"flag" : "uk",
+	  	"results" : {
+	  		"AUD": 1.79,
+	  		"CAD": 1.57,
+	  		"CNY": 8.2,
+	    	"EUR": 1.14,
+	    	"USD": 1.16
+	  		},
+	 	"updated": "2021-12-12 12:12:12"
+	},
+	{
+		"id" : "AUD",
+	  	"name" : "Australia",
+	  	"flag" : "au",
+	  	"results" : {
+	  		"GBP": 0.55,
+	  		"CAD": 0.86,
+	  		"CNY": 4.57,
+	    	"EUR": 0.64,
+	    	"USD": 0.63
+	  		},
+	 	"updated": "2021-03-03 13:13:13"
+	},
+	{
+		"id" : "CAD",
+	  	"name" : "Canada",
+	  	"flag" : "ca",
+	  	"results" : {
+	  		"GBP": 0.64,
+	  		"AUD": 1.15,
+	  		"CNY": 5.29,
+	    	"EUR": 0.74,
+	    	"USD": 0.72
+	  		},
+	 	"updated": "2021-04-04 14:14:14"
+	},
+	{
+		"id" : "CNY",
+	  	"name" : "China",
+	  	"flag" : "cn",
+	  	"results" : {
+	  		"GBP": 0.12,
+	  		"AUD": 0.21,
+	  		"CAD": 0.18,
+	    	"EUR": 0.13,
+	    	"USD": 0.13
+	  		},
+	 	"updated": "2021-05-05 15:15:15"
+	},
+	{
+		"id" : "EUR",
+	  	"name" : "Europe",
+	  	"flag" : "eu",
+	  	"results" : {
+	  		"GBP": 0.87,
+	  		"AUD": 1.56,
+	  		"CAD": 1.35,
+	    	"CNY": 7.14,
+	    	"USD": 0.98
+	  		},
+	 	"updated": "2021-05-05 15:15:15"
+	},
+    {
+        "id" : "AED",
+          "name" : "United Arab Emirates Dirham",
+          "flag" : "eu",
+          "results" : {
+              "GBP": 0.87,
+              "AUD": 1.56,
+              "CAD": 1.35,
+            "CNY": 7.14,
+            "USD": 0.98
+              },
+         "updated": "2021-05-05 15:15:15"
+    }
+    
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="22A400" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Setting" representedClassName="Setting" syncable="YES" codeGenerationType="class">
+        <attribute name="defaultCurrency" optional="YES" attributeType="String"/>
+        <attribute name="defaultLanguage" optional="YES" attributeType="String"/>
+        <attribute name="selectedCurrency" optional="YES" attributeType="Transformable" customClassName="[Country]"/>
+    </entity>
+</model>
